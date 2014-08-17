@@ -1,0 +1,4 @@
+octopyrate
+==========
+
+Octopress management GUI
